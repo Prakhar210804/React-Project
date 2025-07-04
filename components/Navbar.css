@@ -1,0 +1,25 @@
+
+nav,ul{
+    display: flex;
+}
+li{
+    display: flex;
+    list-style-type: none;
+    font-weight: 600;
+    font-size: large;
+     
+
+}
+ul{
+    width: 1vw;
+    gap:100px;
+    position: relative; 
+    top : 20px;
+    left: 10px;
+    justify-content: space-between;
+   
+}
+nav{
+    background-color: beige;
+    height: 50px;
+}
